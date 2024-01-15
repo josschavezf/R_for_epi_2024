@@ -24,6 +24,7 @@ c <- TRUE
 ### 3) What is the class of vector c?
 
 ## Store the result of the following code in a new vector
+d <- c(a,b,c)
 
 ### 4) What is the resulting class of the new vector?
 
