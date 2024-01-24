@@ -33,11 +33,6 @@ vaccines <- data.frame(year = c(2010,2011,2012,2013,2014),
 ### 5) Add a new row with the Measles vaccine that was applied on year 2015 using 200 doses
 
 
-
-
-
-my_matrix <- matrix(1:30, ncol = 6)
-
 ### 6) How would you select columns 2 to 4 with all their rows?
 
 
