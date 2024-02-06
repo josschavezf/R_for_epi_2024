@@ -1,0 +1,13 @@
+﻿subject,demographics,Value
+1,Sex,F
+1,SES,Low
+1,Age,23
+2,Sex,F
+2,SES,High
+2,Age,25
+3,Sex,M
+3,SES,Medium
+3,Age,21
+4,Sex,M
+4,SES,Medium
+4,Age,27
