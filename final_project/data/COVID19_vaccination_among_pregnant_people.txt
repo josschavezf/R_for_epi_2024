@@ -1,0 +1,5 @@
+Weekly Data: COVID-19 vaccination among pregnant people ages 18-49 years before and during pregnancy overall, by race/ethnicity, and week ending date - Vaccine Safety Datalink,* United States
+
+These weekly COVID-19 vaccination coverage estimates are for pregnant persons who are fully vaccinated before and during pregnancy based on data from the Vaccine Safety Datalink*.
+
+For more information go to: https://data.cdc.gov/Pregnancy-Vaccination/Weekly-Data-COVID-19-vaccination-among-pregnant-pe/w6be-99qd/about_data
