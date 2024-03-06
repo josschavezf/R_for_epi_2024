@@ -1,0 +1,14 @@
+Dear students,
+For the final project:
+1. There will be 6 teams, you will find your group and dataset in the Teams.pdf file. 
+2. You will find two files for each dataset: a .csv and .txt file. The csv file contains data, while txt contains a brief description of the dataset.
+3. Download your corresponding dataset from this assignment folder.
+4. Explore your dataset, and evaluate if the data requires some cleaning or formatting modifications. Look for possible relationships between the variables or whether data show some patterns related to each categorical or numerical variable. Once we cover the statistical modeling session, you must also perform the corresponding statistical tests to evaluate the distribution of your data and the significant differences between groups in your data.
+5. Prepare an R script showing the process of cleaning, visualizing, and statistical modeling. 
+6. Upload the script in this assignment, showing the steps that you followed in your analysis. You have untill Monday March 18th at 5:00 pm to upload your script. Just one script uploaded per team is required.
+5. Prepare a presentation with the following elements: 1) Description of your dataset (where it comes from, how many observations have, what type of variables contains). 2) Describe the analysis process, you don’t need to show the code but you must mention which packages you used, whether your data was clean or not, which variables are you comparing, etc. 3) Show and discuss your results (plots and statistical tests), what can you conclude from the data? What clinical or biological interpretation do they have?
+All final projects will be presented on Tuesday, March 19th. You will have 10 minutes to present and 5 minutes for questions. 
+
+If you have any questions, please email me.
+
+Joselyn
